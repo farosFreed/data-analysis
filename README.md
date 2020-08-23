@@ -1,2 +1,4 @@
-# data-analysis
-Where data projects go
+# Data Analysis & Visualization
+
+Various projects using Jupiter Notebooks, Python, SQL, & others. 
+
